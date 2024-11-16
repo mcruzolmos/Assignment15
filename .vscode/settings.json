@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/mcruzolmos/Library/Mobile Documents/com~apple~CloudDocs/HERE/javafx/lib/javafx-swt.jar",
+        "/Users/mcruzolmos/Library/Mobile Documents/com~apple~CloudDocs/HERE/javafx/lib/javafx.base.jar",
+        "/Users/mcruzolmos/Library/Mobile Documents/com~apple~CloudDocs/HERE/javafx/lib/javafx.controls.jar",
+        "/Users/mcruzolmos/Library/Mobile Documents/com~apple~CloudDocs/HERE/javafx/lib/javafx.fxml.jar",
+        "/Users/mcruzolmos/Library/Mobile Documents/com~apple~CloudDocs/HERE/javafx/lib/javafx.graphics.jar",
+        "/Users/mcruzolmos/Library/Mobile Documents/com~apple~CloudDocs/HERE/javafx/lib/javafx.media.jar",
+        "/Users/mcruzolmos/Library/Mobile Documents/com~apple~CloudDocs/HERE/javafx/lib/javafx.swing.jar",
+        "/Users/mcruzolmos/Library/Mobile Documents/com~apple~CloudDocs/HERE/javafx/lib/javafx.web.jar"
+    ]
+}
